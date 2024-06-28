@@ -1,0 +1,518 @@
+
+.box {
+    height: 600px;
+    color: white;
+    background-color: rgb(41, 49, 195);
+    padding-top: 50px;
+}
+
+
+.box2{
+    height: 50px;
+    width: 325px;
+    border: 20px;
+    padding-left: 10px;
+    margin-left: 5rem;
+    margin-top: 2.5rem;
+    padding: 20px;
+    padding-top: 10px; 
+    border-radius: 15px;
+    background-color: brown;  
+    box-shadow: 2px 0px 7px rgb(0,0,0,0.2);
+    
+
+}
+
+.table{
+    margin-left: 5rem;
+    font-size: 20px;
+}
+
+
+.plan{
+    margin-left: 60px;
+    size: 2rem;
+    font-size: 20px;
+    color: white;
+    transition: cubic-bezier(0.55, 0.085, 0.68, 0.53);  
+    padding-left: 1rem; 
+
+}
+
+
+
+
+.smart{
+    height: 500px;
+    width: 250px;
+    background-color: brown;
+    padding-left: 100px;
+    padding-top: 50rem;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    margin-bottom: 50rem;
+    margin-left: 50rem;
+    margin-right: 100px;
+    color: black;
+}
+
+
+.contnr{
+    height: 270px;
+    width: 250px;
+    background-color: skyblue;
+    border-radius: 30px;
+    margin-left: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+
+.page{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+
+.jack{
+    font-size: 5rem;
+}
+
+
+.pagee{
+    height: 100px;
+    background-color: rgb(11, 15, 155);
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: larger;
+}
+
+.imgdbg{
+    float: left;
+    width: 45%;
+    margin-right: 4rem;
+    padding-right: 4rem;
+    
+}
+
+
+.apple{
+    padding-left: 20rem;
+    margin-left: 10rem;
+    justify-content: right;
+    align-items: center;
+    font-size: larger;
+    
+}
+
+
+
+.fan{
+    font-size: 2.5rem;
+    color: blue;
+    font-weight: bolder;
+}
+
+.junk{
+    font-size: 1.5rem;
+    color: blueviolet;
+}
+
+
+.oneplus{
+    height: 1000px;
+    background-color:  rgb(41, 49, 195);
+    padding-top: 5rem;
+    margin-top: 5rem;
+    justify-content: center;
+    align-items: center;
+    padding-left: 5rem;
+}
+
+
+
+.mi{
+    float: right;
+    width: 50%;
+    margin-right: 3rem;
+    margin-top: 3rem;
+}
+
+
+.note{
+    color: aliceblue;
+    font-size: 3rem;
+    margin-left: 3rem;
+}
+
+
+.pro{
+    height: 60px;
+    width: 600px;
+    background-color: wheat;
+    font-size: large;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    display: flex;
+}
+
+.iphone{
+    height: 170px;
+    width: 600px;
+    background-color: wheat;
+    border-radius: 10px;
+    font-size: 2rem;
+    color: black;
+}
+
+
+.nokia{
+    float: inline-start;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+
+
+.star{
+    font-size: large;
+    margin-left: 2rem;
+}
+
+
+.haier{
+    height: 170px;
+    width: 600px;
+    background-color: wheat;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    color: black;
+    margin-top: 5rem;
+    padding-top: 1rem;
+}
+
+
+.lg{
+    font-size: large;
+    margin-left: 2rem;
+}
+
+
+.sony{
+    height: 170px;
+    width: 600px;
+    background-color: wheat;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    color: black;
+    margin-top: 1rem;
+    padding-top: 1rem;
+}
+
+.moto{
+    font-size: large;
+    margin-left: 2rem;
+}
+
+
+
+
+
+.bsnl{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 4rem;
+    color: cadetblue;
+}
+
+
+
+.tata{
+    margin-left: 8rem;
+    float: left;
+    margin-right: 5rem;
+    
+}
+
+
+
+.voda{
+font-size: medium;   
+
+}
+
+
+
+
+
+.jbl{
+    height: 600px;
+    width: 1300px;
+    background-color:  rgb(41, 49, 195);
+    border-radius: 2.5rem;
+    margin-left: 5.5rem;
+    margin-top: 8rem;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.bot{
+    float: right;
+    width: 30%;
+    padding-top: 2rem;
+    margin-top: 3rem;
+    margin-right: 3rem;
+}
+
+
+
+.noob{
+    font-size: 1.5rem;
+    color: white;
+    padding-top: 7rem;
+    margin-left: 5rem;
+}
+
+.a{
+    margin-top: 5rem;
+    margin-left: 8rem;
+    border-image: 10px;
+    border: solid skyblue;
+    border-radius: 10px;
+    float: left;
+}
+
+.abc{
+    height: 1100px;
+    background-color: rgb(240, 249, 255);
+    font-size: 1.8rem;
+}
+
+
+
+.bc{
+    padding-left: 10rem;
+    margin-left: 40rem;
+    padding-top: 5rem;
+}
+
+.jerry{
+    width: 700px;
+    margin-left: 40rem;
+    padding-left: 10rem;
+    font-size: 1rem;
+}
+
+
+.pas{
+    height: 150px;
+    width: 540px;
+    background-color: lightgray;
+    border-radius: 20px;
+    padding-left: 2rem;
+    padding-top: 1.5rem;
+ 
+}
+
+
+.pan{
+    height: 350px;
+    background-color: rgb(41, 49, 195);
+    color: white;
+    padding-left: 30rem;
+    padding-top: 4rem;
+    
+}
+
+
+.btn{
+   border-radius: 30px;
+    margin-left: 10rem;
+    
+}
+
+
+
+.cam{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 2.5rem;
+    padding-top: 4rem;
+    color: rgb(41, 49, 195);
+}
+
+
+
+.mega{
+    width: 150px;
+    height: 60px;
+    border-radius: 30px;
+    margin-left: 5rem;
+    padding-left: 1rem;
+    padding-top: .5rem;
+    font-size: 1.5rem;
+    
+}
+
+
+.pods{
+    height: 600px;
+    background-color: rgb(41, 49, 195);
+   padding-top: 4rem;
+   
+}
+
+
+
+.air{
+    float: right;
+    
+   
+}
+
+
+.port{
+    height: 700px;
+    width: 500px;
+    background-color: white;
+    margin-left: 5rem;
+    margin-top: 4rem;
+    padding-top: 4rem;
+    border-radius: 20px;
+    
+    padding-left: 2rem;
+    padding-top: 1rem;
+    color:  rgb(11, 15, 155);
+}
+
+
+.cock{
+    width: 400px;
+    height: 60px;
+    border-radius: 20px;
+    background-color: skyblue;
+    color: white;
+    font-size: larger;
+}
+
+
+.bob{
+    height: 600px;
+    background-color: black;
+    margin-top: 12rem;
+    color: white;
+    padding-left: 5rem;
+    padding-top: 4rem;
+}
+
+
+.foot{
+    font-size: 2rem;
+}
+
+
+.tic{
+    font-size: 1.5rem;
+    padding-top: 4rem;
+    margin-top: 4rem;
+}
+
+
+
+.row{
+    text-decoration: none;
+    color: white;
+}
+
+
+.mop{
+    height: 400px;
+    width: 600px;
+    background-color: white;
+    margin-left: 48rem;
+    margin-top: 3rem;
+    border-radius: 15px;
+    padding-top: 1.5rem;
+}
+
+
+
+
+
+
+
+
+.hap{
+    margin-left: 5rem;
+    font-size: 4rem;
+}
+
+.py{
+    font-size: large;
+}
+
+
+.cap{
+    height: 500px;
+    width: 480px;
+    background-color: lightblue;
+    margin-right: 5rem;
+    float:right;
+    margin-top: 2rem;
+    border-radius: 20px;
+ 
+}
+
+
+.hat{
+    height: 80px;
+    width: 400px;
+    background-color: skyblue;
+    margin-left: 2.5rem;
+    margin-top: 2rem;
+    border-radius: 10px;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    color: black;
+
+}
+
+.xy{
+    margin-left: 3rem;
+    color: black;
+}
+
+
+.yz{
+   margin-left: 3rem;
+   color: black;
+}
+
+.xyz{
+    margin-left: 3rem;
+    color: black;
+}
+
+
+
+.pol{
+    height: 60px;
+    width: 400px;
+    background-color:skyblue;
+    margin-left: 2.5rem;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
